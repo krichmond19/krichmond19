@@ -1,6 +1,6 @@
-- 👋   Hi, I’m @krichmond19
-- 👀   I’m interested in Data Science and Analytics
-- 🌱   I’m currently learning Python, ML, and SQL
+- 👋   Hi, I’m Keith - thank you for visiting my Github prpfile
+- 👀   I’m interested in Data Science, Data Analytics, and Data Engineering
+- 🌱   In my spare time, I'm always improving my Data Science knowledge focusing on Python, ML, SQL, Tableau, and Advanced Excel
 - 💞️   I’m looking to collaborate on ML and DS projects
 - 📫   How to reach me via keith.s.richmond@gmail.com or Github 
 
