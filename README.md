@@ -1,4 +1,4 @@
-- 👋   Hi, I’m Keith - thank you for visiting my Github prpfile
+- 👋   Hi, I’m Keith - thank you for visiting my Github profile
 - 👀   I’m interested in Data Science, Data Analytics, and Data Engineering
 - 🌱   In my spare time, I'm always improving my Data Science knowledge focusing on Python, ML, SQL, Tableau, and Advanced Excel
 - 💞️   I’m looking to collaborate on ML and DS projects
