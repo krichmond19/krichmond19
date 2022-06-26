@@ -1,8 +1,9 @@
-- 👋   Hi, I’m Keith - thank you for visiting my Github profile
-- 👀   I’m interested in Financial & Data Analytics, Data Science, and Data Engineering
-- 🌱   In my spare time, I'm always improving my Data Science knowledge focusing on Advanced Excel, SQL, Python, ML, and Business Intelligence
-- 💞️   I’m looking to collaborate on Data Analytics, BI and Data Science projects
-- 📫   We can connect via keith.s.richmond@gmail.com, Github, LinkedIn (https://www.linkedin.com/in/keith-richmond/) or Tableau (https://public.tableau.com/app/profile/keith.richmond)
+- 👋   Hi, I’m Keith, currently in supply chain management
+- 👀   Interested in Financial & Data Analytics, and Data Science
+- 🌱   In my spare time, I'm always improving my Data Science knowledge focusing on Advanced Excel, SQL, Business Intelligence (Power BI / Tableau), Python, and Machine Learning 
+- 💞️   I’m looking to collaborate on Data Analytics, BI, Web Scraping and Data Science projects
+- 👀   Learning a little bit everyday and keen on providing solutions to complex business problems
+- 📫   Connect with me via keith.s.richmond@gmail.com, LinkedIn (https://www.linkedin.com/in/keith-richmond/) or Tableau (https://public.tableau.com/app/profile/keith.richmond)
 
 <!---
 krichmond19/krichmond19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
