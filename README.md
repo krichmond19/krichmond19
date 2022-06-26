@@ -1,4 +1,4 @@
-- 👋   Hi, I’m Keith, currently in supply chain management
+- 👋   Hi, I’m Keith currently in supply chain management
 - 👀   Interested in Financial & Data Analytics, and Data Science
 - 🌱   In my spare time, I'm always improving my Data Science knowledge focusing on Advanced Excel, SQL, Business Intelligence (Power BI / Tableau), Python, and Machine Learning 
 - 💞️   I’m looking to collaborate on Data Analytics, BI, Web Scraping and Data Science projects
