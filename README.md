@@ -2,7 +2,7 @@
 - 👀   Interested in Financial & Data Analytics, and Data Science
 - 🌱   In my spare time, I'm always improving my Data Science knowledge focusing on Advanced Excel, SQL, Business Intelligence (Power BI / Tableau), Python, and Machine Learning 
 - 💞️   I’m looking to collaborate on Data Analytics, BI, Web Scraping and Data Science projects
-- 👀   Learning a little bit everyday and keen on providing solutions to complex business problems
+- 👀   Keen on providing solutions to complex business problems
 - 📫   Connect with me via keith.s.richmond@gmail.com, LinkedIn (https://www.linkedin.com/in/keith-richmond/) or Tableau (https://public.tableau.com/app/profile/keith.richmond)
 
 <!---
